@@ -18,8 +18,8 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 
 # Relevant files
-X_Education.ipynb : The python file showing coding and data analysis
-Assignment Subjective Questions.docx.pdf: Some subjective questions answered
-Case Study - X Education Lead Conversion.pptx.pdf : Final Presentation
-Leads.csv : Data worked on
-X Education- Report.docx.pdf : Summary on what's done in the entire py file
+- X_Education.ipynb : The python file showing coding and data analysis
+- Assignment Subjective Questions.docx.pdf: Some subjective questions answered
+- Case Study - X Education Lead Conversion.pptx.pdf : Final Presentation
+- Leads.csv : Data worked on
+- X Education- Report.docx.pdf : Summary on what's done in the entire py file
