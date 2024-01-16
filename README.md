@@ -19,7 +19,7 @@ An education company named X Education sells online courses to industry professi
 
 # Relevant files
 - X_Education.ipynb : The python file showing coding and data analysis
-- Assignment Subjective Questions.docx.pdf: Some subjective questions answered
-- Case Study - X Education Lead Conversion.pptx.pdf : Final Presentation
+- Assignment Subjective Questions.pdf: Some subjective questions answered
+- Case Study - X Education Lead Conversion.pdf : Final Presentation
 - Leads.csv : Data worked on
-- X Education- Report.docx.pdf : Summary on what's done in the entire py file
+- X Education- Report.pdf : Summary on what's done in the entire py file
